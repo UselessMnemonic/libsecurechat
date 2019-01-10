@@ -1,0 +1,15 @@
+Welcome to LibSecureChat!
+
+This is a project library meant to provide a simple interface for implementing
+a secure chat service for your application.
+
+The library will consist of a server class and a client class.
+Each will expose an interface for interacting with server rooms, clients, and
+rich content messages programmatically.
+
+Each server hosts a single room, and sets up several parameters to the author's
+preference.
+
+The API follows a RESTful specification. It describes the interface available to
+the author for both ends of the service. This API is described in the provided
+wiki page. A javadoc is also provided.
